@@ -5,7 +5,7 @@ and follows supervised learning model.
 
 Sonar vs Rock Prediction Model
 
-Overview
+Overview:-
 
 This project is a machine learning-based classification model designed to differentiate between sonar signals reflected from rocks and mines. It utilizes Python and various ML techniques to achieve high accuracy in prediction.
 
@@ -13,17 +13,17 @@ Dataset
 
 The model is trained using the Sonar Dataset, which consists of 208 samples, each containing 60 numerical features representing sonar wave frequencies. The target variable is binary, indicating whether the object is a rock (R) or a mine (M).
 
-Technologies Used
+Technologies Used:-
 
-Python
+1)Python
 
-Pandas & NumPy (for data handling)
+2)Pandas & NumPy (for data handling)
 
-Scikit-learn (for machine learning algorithms)
+3)Scikit-learn (for machine learning algorithms)
 
-Matplotlib & Seaborn (for visualization)
+4)Matplotlib & Seaborn (for visualization)
 
-Installation
+Installation:-
 
 To run this project on your local machine, ensure you have Python installed and set up the required dependencies using:
 
@@ -41,7 +41,7 @@ Evaluate model performance using accuracy, precision, recall, and confusion matr
 
 Tune hyperparameters to improve performance.
 
-Usage
+Usage:-
 
 Run the Python script to train and test the model:
 
@@ -49,11 +49,11 @@ python sonar_vs_rock.py
 
 After execution, the model will output the classification results along with performance metrics.
 
-Results
+Results:-
 
 The model achieves an accuracy of approximately X% (replace with actual accuracy after evaluation), making it effective for classifying sonar signals.
 
-Future Improvements
+Future Improvements:-
 
 Implement deep learning models for better accuracy.
 
